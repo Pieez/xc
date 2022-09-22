@@ -1,0 +1,8 @@
+C:\Users\СмолинИА\source\repos\Exzamen\Exzamen\bin\Debug\Exzamen.exe.config
+C:\Users\СмолинИА\source\repos\Exzamen\Exzamen\bin\Debug\Exzamen.exe
+C:\Users\СмолинИА\source\repos\Exzamen\Exzamen\bin\Debug\Exzamen.pdb
+C:\Users\СмолинИА\source\repos\Exzamen\Exzamen\obj\Debug\Exzamen.csproj.AssemblyReference.cache
+C:\Users\СмолинИА\source\repos\Exzamen\Exzamen\obj\Debug\Exzamen.csproj.SuggestedBindingRedirects.cache
+C:\Users\СмолинИА\source\repos\Exzamen\Exzamen\obj\Debug\Exzamen.csproj.CoreCompileInputs.cache
+C:\Users\СмолинИА\source\repos\Exzamen\Exzamen\obj\Debug\Exzamen.exe
+C:\Users\СмолинИА\source\repos\Exzamen\Exzamen\obj\Debug\Exzamen.pdb
